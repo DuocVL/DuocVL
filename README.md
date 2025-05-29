@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Lê Văn Được
 
-<!--
-**DuocVL/DuocVL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Android](https://img.shields.io/badge/Platform-Android-brightgreen)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Kỹ năng
+- Android Studio, Kotlin, Firebase
+- RESTful API, PayOS, Firestore, Node.js
+- Git, GitHub, Bunny Stream, Railway
+
+## 📁 Dự án tiêu biểu
+
+### 🎬 MovieApp – Ứng dụng xem phim Android
+- Đăng nhập Firebase, hiển thị phim từ TMDB
+- Tích hợp thanh toán PayOS, backend Railway
+- Lưu trữ video BunnyStream
+- 👉 [Xem mã nguồn](https://github.com/DuocVL/MovieApp)
+
+## 📫 Liên hệ với tôi
+- GitHub: [DuocVL](https://github.com/DuocVL)
+- Email: leduochhnd@gmail.com
