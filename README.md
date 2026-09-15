@@ -34,6 +34,8 @@ Tôi quan tâm đến **phát triển phần mềm, Cybersecurity và Reverse En
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark\&logoColor=white\&style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 
 ## 🔐 Cybersecurity
 
