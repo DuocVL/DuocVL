@@ -123,7 +123,7 @@ Lưu trữ:
 
 ### Cracmes.one
 
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-1A1A1A?style=for-the-badge)](https://github.com/DuocVL/Crackmes.one)
+[![PicoCTF](https://img.shields.io/badge/Crackmes.one-9ACC1A?style=for-the-badge)](https://github.com/DuocVL/Crackmes.one)
 
 Tập trung vào:
 
