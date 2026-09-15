@@ -58,6 +58,7 @@ Tôi thực hành thông qua các nền tảng:
 * [Hack The Box](https://www.hackthebox.com/)
 * [PicoCTF](https://picoctf.org/)
 * [Root-Me](https://www.root-me.org/)
+* [Crackmes.one](https://crackmes.one/)
 
 ## 🔬 Reverse Engineering
 
@@ -120,15 +121,12 @@ Lưu trữ:
 * Privilege Escalation
 * Reverse Engineering
 
-### Hack The Box
+### Cracmes.one
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox\&logoColor=black\&style=for-the-badge)](https://github.com/DuocVL/HackTheBox)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-1A1A1A?style=for-the-badge)](https://github.com/DuocVL/Crackmes.one)
 
-Lưu trữ:
+Tập trung vào:
 
-* Academy
-* Starting Point
-* Machines
 * Reverse Engineering
 
 ### PicoCTF
@@ -141,6 +139,19 @@ Tập trung vào:
 * General Skills
 * Password Cracking
 * Reverse Engineering
+
+### Hack The Box
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox\&logoColor=black\&style=for-the-badge)](https://github.com/DuocVL/HackTheBox)
+
+Lưu trữ:
+
+* Academy
+* Starting Point
+* Machines
+* Reverse Engineering
+
+
 
 ### Root-Me
 
