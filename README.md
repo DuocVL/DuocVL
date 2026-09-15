@@ -199,4 +199,3 @@ Các thành phần:
 ## 📫 Liên hệ
 
 * GitHub: [@DuocVL](https://github.com/DuocVL)
-* Email: [leduochhnd@gmail.com](mailto:leduochhnd@gmail.com)
